@@ -1,0 +1,11 @@
+{
+    "author": "Hewlett Packard Enterprise Development LP",
+    "email": "payal.upadhyaya@hp.com",
+    "repo_name": "your_tests_repo_name",
+    "repo_url": "https://github.com/payalupadhyaya/{{ cookiecutter.repo_name }}",
+    "doc_url": "{{ cookiecutter.repo_url }}/tree/master/doc",
+    "project_name": "Your testing project name",
+    "short_description": "A short description of your testing project goes here.",
+    "year": "2016",
+    "version": "0.1.0"
+}
